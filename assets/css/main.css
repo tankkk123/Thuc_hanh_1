@@ -359,8 +359,8 @@
     color: #a3a3a3;
 }
 #nd_travel_search_components_submit input[type="submit"]{
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/plugins/nd-travel/addons/visual/search/layout/icon-search-grey.png);
     background-size: 18px;
+    background-image: url(../img/icon-search-grey.png);
     background-position: center;
     background-repeat: no-repeat;
     width: 47px;
@@ -418,7 +418,7 @@
     margin-top: 60px !important;
     padding-top: 50px !important;
     padding-bottom: 50px !important;
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-search-2.jpg?id=1538) !important;
+    background-image: url(../img/parallax-search-2.jpeg) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -598,7 +598,7 @@
 }
 
 .details__img1{
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-5-filter.jpg?id=1584) !important;
+    background-image: url(../img/parallax-5-filter.jpeg) !important;
     padding-top: 41%;
     background-position: center !important;
     background-repeat: no-repeat !important;
@@ -607,7 +607,7 @@
     margin-top: 50px;
 }
 .details__img2{
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-6-filter.jpg?id=1585) !important;
+    background-image: url(../img/parallax-6-filter.jpeg) !important;
     padding-top: 41%;
     background-position: center !important;
     background-repeat: no-repeat !important;
@@ -761,7 +761,7 @@
 }
 .footer{
     margin-top: 77px;
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-7.jpg?id=1602);
+    background-image: url(../img/parallax-7.jpeg);
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
